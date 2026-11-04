@@ -1,0 +1,10 @@
+{
+  "name": "monblog",
+  "version": "1.0.0",
+  "description": "Serveur API REST Express avec CORS pour la Séance 5 (Groupe Décalé)",
+  "main": "server.js",
+  "scripts": {
+    "start": "server/node server.js"
+  }
+
+}
